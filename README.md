@@ -1,1 +1,1 @@
-# Gas_Price_Automated_Scraper
+# Gas Price Automated Scraper
