@@ -20,6 +20,7 @@ There are four fields that need to be manually entered:
 - `fuel`: Strings of digits 1-4, corresponding to: 1) Regular, 2) Midgrade, 3) Premium, 4) Diesel
 - `headers`: A unique User-Agent Header that can be retrieved at https://httpbin.org/get. Copy the line that starts with <"User-Agent": ...>
 - `path`: File directory for where to store scraped data
+
 Then, run the cell with the user-variables and functions. The data will be scraped every 24 hours, or after any other specified time length if changed.
 
 ## Example Data
